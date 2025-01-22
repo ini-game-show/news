@@ -54,8 +54,3 @@ python main.py
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any questions or feedback, feel free to reach out:
-- **Email**: dinwodinwo@yahoo.com
-- **GitHub**: [ini-game-show](https://github.com/ini-game-show)
